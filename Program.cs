@@ -14,6 +14,8 @@
             }
 
             Console.WriteLine("more changes");
+            const int count = 10;
+            
         }
     }
 }
